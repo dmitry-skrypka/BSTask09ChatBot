@@ -1,4 +1,4 @@
-# BSTask09ChatBot
+# NodeJS ChatBot
 simple chatbot
 # Commands:
 ### Weather:
